@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Flashcard Quiz App
 
 A simple, clean, and responsive flashcard study app built with React, TypeScript, Vite, and Tailwind CSS. All data is stored in the browser's Local Storage — there is no backend.
@@ -58,3 +59,7 @@ src/
 - Vite
 - Tailwind CSS v4
 - Browser Local Storage (no backend)
+=======
+# CodeAlpha_Flashcard-QuizApp-
+Flashcard Quiz App is a responsive web application built with React, TypeScript, Vite, and Tailwind CSS. Users can create, edit, delete, and study flashcards by revealing answers and navigating between cards. Data is saved using Local Storage, providing a simple, interactive, and persistent learning experience.
+>>>>>>> df32febb8cd7ecee49bc7f59e4cf82afd5a21f37
